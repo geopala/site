@@ -21,4 +21,6 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
+  - windows11
+  - whatsapp
 ---

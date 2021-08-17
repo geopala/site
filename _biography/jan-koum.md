@@ -12,4 +12,4 @@ tags:
   - Facebook
 ---
 
-{% include_relative bio-durov.md %}
+{% include_relative bio-koum.md %}
